@@ -131,3 +131,12 @@ document.addEventListener('DOMContentLoaded', function () {
               }, 2000);
           });
       });
+      window.addEventListener('load', function() {
+        // Hide the loader
+        const loader = document.getElementById('loader');
+        const content = document.getElementById('content');
+        
+        loader.style.display = 'none'; // Hide the loader
+        content.style.display = 'block'; // Show the main content
+    });
+    
