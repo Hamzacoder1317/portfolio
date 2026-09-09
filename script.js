@@ -1,5 +1,5 @@
 var typingEffect = new Typed(".lin3", {
-    strings: ["Freelancer!", "Front end Developer", "Back end Developer", "Full Stack Developer"],
+    strings: ["IT Infrastructure Engineer", "Software Engineer"],
     loop: true,
     typeSpeed: 100,
     backSpeed: 80,
@@ -8,7 +8,7 @@ var typingEffect = new Typed(".lin3", {
   });
 
   var typing = new Typed(".lin1", {
-    strings: ["Stunning Imagery!", "Front end Developer", "Back end Developer", "Full Stack Developer"],
+    strings: ["IT Infrastructure Engineer", "Software Engineer"],
     loop: true,
     typeSpeed: 100,
     backSpeed: 80,
